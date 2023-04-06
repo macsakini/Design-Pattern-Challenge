@@ -4,20 +4,12 @@ This is a challenge to utilize and create any implementation using one of the co
 
 ## Creational Design Patterns
 
-### Day 1
+### Day 1 - Builder
 
-Builder
+### Day 2 - Factory
 
-### Day 2
+### Day 3 - Abstract-Factory
 
-Factory
-
-### Day 3
-
-Abstract-Factory
-
-### Day 4
-
-Singleton
+### Day 4 - Singleton
 
 ## Behavioural Design Patterns
