@@ -6,6 +6,8 @@ This is a challenge to utilize and create any implementation using one of the co
 
 ### Day 1 - Builder
 
+Implementation successful.
+
 ### Day 2 - Factory
 
 ### Day 3 - Abstract-Factory
